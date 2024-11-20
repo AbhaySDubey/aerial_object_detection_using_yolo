@@ -8,12 +8,12 @@ This project implements an object detection solution using the YOLOv5 model on t
 
 ## Dataset
 ### DOTA: Dataset for Object Detection in Aerial Images
-##### Description: DOTA is a large-scale aerial image dataset containing annotations for 15 object categories, such as vehicles, buildings, and ships.
-##### Challenges Addressed:
+**Description: DOTA is a large-scale aerial image dataset containing annotations for 15 object categories, such as vehicles, buildings, and ships.**
+**Challenges Addressed:**
  - Multi-scale objects
  - Complex backgrounds
  - Irregular object orientations
-##### Dataset Link: DOTA Official Website
+**Dataset Link: DOTA Official Website**
 ### Key Features of DOTA
  - Contains ~2,800 images and ~280,000 labeled object instances.
  - Objects annotated with rotated bounding boxes to handle orientations.
