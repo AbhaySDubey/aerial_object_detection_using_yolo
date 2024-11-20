@@ -13,7 +13,7 @@ This project implements an object detection solution using the YOLOv5 model on t
  - Multi-scale objects
  - Complex backgrounds
  - Irregular object orientations
-**Dataset Link: DOTA Official Website**
+ - **Dataset Link: [DOTA Official Website](https://captain-whu.github.io/DOTA/dataset.html)**
 ### Key Features of DOTA
  - Contains ~2,800 images and ~280,000 labeled object instances.
  - Objects annotated with rotated bounding boxes to handle orientations.
@@ -34,8 +34,8 @@ This project implements an object detection solution using the YOLOv5 model on t
     - Variants: Starting with yolov5s for faster training on Colab, with options to scale up to larger models (yolov5m, yolov5l, etc.) if needed.
 
 #### References
-[YOLOv5 GitHub Repository](https://github.com/ultralytics/yolov5)
-[YOLOv4 Paper (Predecessor to YOLOv5)](https://arxiv.org/abs/2004.10934)
+- [YOLOv5 GitHub Repository](https://github.com/ultralytics/yolov5)
+- [YOLOv4 Paper (Predecessor to YOLOv5)](https://arxiv.org/abs/2004.10934)
 
 ---
 
@@ -69,7 +69,7 @@ This project implements an object detection solution using the YOLOv5 model on t
 
 ## Research Papers and References
 ### Dataset
- - DOTA Paper: DOTA: A Large-Scale Dataset for Object Detection in Aerial Images
+ - [DOTA Paper: DOTA: A Large-Scale Dataset for Object Detection in Aerial Images](https://arxiv.org/abs/1711.10398)
 ### Model
- - YOLOv4 Paper (Foundation for YOLOv5): YOLOv4: Optimal Speed and Accuracy of Object Detection
- - YOLOv5 GitHub Repository: YOLOv5 by Ultralytics
+ - [YOLOv4 Paper (Foundation for YOLOv5): YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2004.10934)
+ - [YOLOv5 GitHub Repository: YOLOv5 by Ultralytics](https://github.com/ultralytics/yolov5)
