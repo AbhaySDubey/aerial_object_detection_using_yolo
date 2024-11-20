@@ -13,7 +13,7 @@ This project implements an object detection solution using the YOLOv5 model on t
  - Multi-scale objects
  - Complex backgrounds
  - Irregular object orientations
-<!-- ##### Dataset Link: DOTA Official Website -->
+##### Dataset Link: DOTA Official Website
 ### Key Features of DOTA
  - Contains ~2,800 images and ~280,000 labeled object instances.
  - Objects annotated with rotated bounding boxes to handle orientations.
@@ -27,7 +27,7 @@ This project implements an object detection solution using the YOLOv5 model on t
     - Lightweight and efficient, ideal for real-time and resource-constrained environments.
     - Provides state-of-the-art accuracy for object detection tasks with pre-trained weights for transfer learning.
     - Robust to scale variations and dense object environments.
-    - #### Key Features:
+ - #### Key Features:
     - Speed: Near real-time inference capability.
     - Accuracy: Competitive mean Average Precision (mAP) for aerial imagery.
     - Flexibility: Supports multiple object sizes and custom dataset integration.
