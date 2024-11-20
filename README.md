@@ -13,7 +13,7 @@ This project implements an object detection solution using the YOLOv5 model on t
  - Multi-scale objects
  - Complex backgrounds
  - Irregular object orientations
-##### Dataset Link: DOTA Official Website
+<!-- ##### Dataset Link: DOTA Official Website -->
 ### Key Features of DOTA
  - Contains ~2,800 images and ~280,000 labeled object instances.
  - Objects annotated with rotated bounding boxes to handle orientations.
